@@ -32,3 +32,8 @@ IP-CIDR,207.241.224.2/32,no-resolve
 # 其他
 DOMAIN-SUFFIX,7pzzv.us
 DOMAIN-SUFFIX,hoyoverse.com
+# 贝斯特微规则
+DOMAIN-SUFFIX,ibestwe.com
+DOMAIN-SUFFIX,aliezs.com
+DOMAIN-SUFFIX,b.ai
+DOMAIN-SUFFIX,yunwu.ai
